@@ -1,4 +1,4 @@
-### ```HELLO😸 WORLD```
+<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 
 <a href="https://github.com/lordlightness/github-readme-stats">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=lordlightness&show_icons=true&include_all_commits=true&theme=material-palenight" alt="LordLightness github stats" />
