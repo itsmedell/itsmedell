@@ -23,8 +23,18 @@
 <a href="https://wa.me/6287858889824"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 <a href="https://www.instagram.com/lord_lightness/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
 
+### MY TEAM
+---------
 
+<p align="center">
 
+|[![Saya](https://github.com/lordlightness.png?size=55)](https://github.com/lordlightness) | [![Hm](https://github.com/srart24.png?size=55)](https://github.com/srart24) | [![Hi](https://github.com/Piubit.png?size=50)](https://github.com/Piubit) | 
+|------|------|------|
+| Lord Lightness | srart_24 | Piubit |
+
+</p> 
+
+-------------
 
 
 
