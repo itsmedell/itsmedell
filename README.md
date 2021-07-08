@@ -29,7 +29,7 @@
 | [![Saya](https://github.com/lordlightness.png?size=100)](https://github.com/lordlightness) | [![Hm](https://github.com/srart24.png?size=100)](https://github.com/srart24) | [![hm](https://github.com/Piubit.png?size=100)](https://github.com/Piubit) | [![lm](https://github.com/lendev0406.png?size=100)](https://github.com/lendev0406) | [![Sya](https://github.com/Jem-Bot.png?size=100)](https://github.com/Jem-Bot) |
 |------|------|------|------|------|
 | Lord Lightness | srart_24 | Piubit | lendev0406 | Jem_Bot |
-|LyliaBot|SeTanBot|LucBot||Jem-Bot|
+|LyliaBot|SeTaN-Bot|LucBot|Code|Jem-Bot|
 
 ---------
 
