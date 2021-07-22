@@ -26,10 +26,10 @@
 ### MY TEAM
 ---------
 
-| [![Saya](https://github.com/lordlightness.png?size=100)](https://github.com/lordlightness) | [![Hm](https://github.com/srart24.png?size=100)](https://github.com/srart24) | [![hm](https://github.com/Piubit.png?size=100)](https://github.com/Piubit) | [![lm](https://github.com/lendradev.png?size=100)](https://github.com/lendradev) | [![Sya](https://github.com/Jem-Bot.png?size=100)](https://github.com/Jem-Bot) |
+| [![Saya](https://github.com/itsmedell.png?size=100)](https://github.com/itsmedell) | [![Hm](https://github.com/srart24.png?size=100)](https://github.com/srart24) | [![hm](https://github.com/Piubit.png?size=100)](https://github.com/Piubit) | [![lm](https://github.com/lendradev.png?size=100)](https://github.com/lendradev) | [![Sya](https://github.com/Jem-Bot.png?size=100)](https://github.com/Jem-Bot) |
 |------|------|------|------|------|
-| Lord Lightness | srart_24 | Piubit | lendradev | Jem_Bot |
-|LyliaBot|SeTaN-Bot|LucBot|Modules|Jem-Bot|
+| Dellas | srart_24 | Piubit | lendradev | Jem_Bot |
+| Bot Whatsapp |SeTaN-Bot|LucBot|Modules|Jem-Bot|
 
 ---------
 
